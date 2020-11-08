@@ -1,0 +1,58 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<style>
+body{margin:0; padding:0 ; font-family:arial,tahoma}       
+
+
+.navigation{background:#ddd; color:#333; text-align:center }
+ul{list-style:none;paddind:0;margin:0}
+ul li{display:inline-block;padding:10px}
+.content{text-line:center; padding:20px 0}
+.footer{background:#00f; color:#fff; text-align:center; padding"5px 0}
+
+
+</style>
+
+  </head>
+<body>
+
+
+</body>
+
+<div class="navigation">
+<ul>
+<li>home</li>
+<li>category<li>
+<li>contact<li>
+</ul>
+</div>
+
+<div class="content">
+<center>
+<img src="hate.jpg" alt="the love" height="500px" weight="800px">
+</center>
+</div>
+
+<div class="footer">
+<h3>terrorism</h3>
+<p>we should do effort to beat the devil</p>
+<center>
+<img src="download.jpg" alt="heart">
+<br>
+<img src="images.jpg" alt="like it">
+<br>
+<h3>contact us</h3>
+<br>
+<p>name</p>
+<input type="text" value="   ">
+
+<p>email</p>
+<input type="text" value="   ">
+
+<p>passsword</p>
+<input type="text" value="   ">
+
+</center>
+</footer>
+</html>
